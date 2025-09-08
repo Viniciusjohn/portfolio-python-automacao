@@ -1,0 +1,71 @@
+# Arquivos de configuração sensíveis
+.env
+*.env
+
+# Logs
+*.log
+logs/
+
+# Arquivos temporários Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Environments
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Arquivos gerados pelos scripts (opcional - você pode querer mostrar os outputs)
+# *.csv
+# *.png
+# *.html
+# *.json
+
+# Dados sensíveis específicos do projeto
+projeto-B_email-relatorio/.env
+**/email_reports.log
+**/relatorio_vendas.log

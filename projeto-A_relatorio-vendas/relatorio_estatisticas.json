@@ -1,0 +1,18 @@
+{
+    "timestamp": "2025-09-07 21:53:28",
+    "total_registros_original": 4,
+    "total_registros_filtrados": 2,
+    "valor_minimo_filtro": 1000,
+    "vendas_originais": {
+        "total": 4100.0,
+        "media": 1025.0,
+        "maximo": 1500.0,
+        "minimo": 600.0
+    },
+    "vendas_filtradas": {
+        "total": 2700.0,
+        "media": 1350.0,
+        "maximo": 1500.0,
+        "minimo": 1200.0
+    }
+}

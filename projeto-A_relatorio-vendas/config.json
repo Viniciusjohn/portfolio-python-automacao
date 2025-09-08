@@ -1,0 +1,7 @@
+{
+    "arquivo_entrada": "vendas.csv",
+    "arquivo_saida": "vendas_filtradas.csv",
+    "valor_minimo": 1000,
+    "colunas_obrigatorias": ["Cliente", "Vendas"],
+    "formato_data": "%Y-%m-%d %H:%M:%S"
+}
